@@ -8,7 +8,7 @@
     >
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
-            <Image Source="lab_voiture.png" Margin="30,0"/>
+            <Image Source="lab_voiture.png" Margin="30,0" x:Name="voitureImage"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

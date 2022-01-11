@@ -13,4 +13,5 @@
 
     <views:TabVoiture IconImageSource="lab_icon_voiture.png"/>
     <views:TabAvion IconImageSource="lab_icon_avion.png"/>
+    <views:ContPage IconImageSource="lab_icon_compteur.png"/>
 </TabbedPage>
